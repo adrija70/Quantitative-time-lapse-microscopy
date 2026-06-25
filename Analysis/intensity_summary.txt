@@ -1,0 +1,12 @@
+
+CHANNEL 0
+Mean intensity range: 602.92 - 616.14
+Max intensity range: 9978.00 - 15688.00
+
+CHANNEL 1
+Mean intensity range: 1626.84 - 1638.03
+Max intensity range: 5793.00 - 17188.00
+
+CHANNEL 2
+Mean intensity range: 952.86 - 959.37
+Max intensity range: 6872.00 - 16188.00

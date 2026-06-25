@@ -1,0 +1,16 @@
+File: den1.h5
+
+Top-level groups:
+DataSet
+DataSetInfo
+DataSetTimes
+Scene
+Scene8
+Thumbnail
+
+Dataset dimensions:
+Timepoints: 120
+Channels: 3
+Z slices: 24
+Image size: 512 x 512
+Datatype: uint16
